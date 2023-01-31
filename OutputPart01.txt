@@ -1,0 +1,2 @@
+Experience: 12	Test_Score: 10	Interview_Score: 10	Suggested_Salary($): 92146
+Experience: 2	Test_Score: 9	Interview_Score: 6	Suggested_Salary($): 56365
